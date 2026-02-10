@@ -1,6 +1,14 @@
 CODSOFT Python Programming Internship
-
+Task 1:
 This repository contains the work I am completing as part of the CODSOFT Python Programming Internship. The main goal of this internship is to improve my understanding of Python programming by building small, real-world applications that can be run from the command line. Each task in this repository focuses on practicing core Python concepts such as variables, loops, functions, lists, and user input.
 The first task in this repository is a To-Do List application. This program is designed to help users manage their daily activities in a simple and organized way. It allows the user to add new tasks, view all existing tasks, and remove tasks that are no longer needed. The program runs in a menu-driven format where the user chooses different options by entering numbers. This makes the application easy to use even for beginners who are just starting to learn Python.
 Through this task, I learned how to store data using lists, take input from users, display information clearly, and handle basic errors so that the program does not crash when incorrect input is given. The project helped me understand how real programs work step by step rather than just writing small pieces of code.
 More tasks will be added to this repository as I continue working on the internship and complete the remaining assignments provided by CODSOFT.
+
+Task 2:
+The second task is a simple calculator built using Python’s Tkinter library. 
+This application provides a graphical user interface where users can perform 
+basic arithmetic operations such as addition, subtraction, multiplication, 
+and division. The calculator takes input through on-screen buttons and 
+displays the result instantly, making it easy to use and visually interactive.
+
