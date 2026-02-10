@@ -10,3 +10,9 @@ basic arithmetic operations such as addition, subtraction, multiplication,
 and division. The calculator takes input through on-screen buttons and 
 displays the result instantly, making it easy to use and visually interactive.
 
+Task 3:Password Generator (GUI)  
+The third task is a password generator with a graphical user interface. The user can enter the desired password length and choose whether to include uppercase letters, numbers, and symbols. The program then generates a strong random password and displays it on the screen. This task helped me understand how to use random functions, string manipulation, and Tkinter widgets to build a real desktop application.
+
+More tasks will be added to this repository as I continue working on the internship.
+
+
