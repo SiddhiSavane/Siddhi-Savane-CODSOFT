@@ -19,4 +19,7 @@ More tasks will be added to this repository as I continue working on the interns
 Task 4: Rock–Paper–Scissors Game
 This task is a Rock–Paper–Scissors game built using Python with a graphical user interface. The user selects rock, paper, or scissors using buttons, while the computer randomly chooses one option. The program compares both choices using the game rules and instantly displays whether the user wins, loses, or the match is a tie. The application also keeps track of the score for both the user and the computer, making it feel like a real game. This task helped me understand random number generation, conditional logic, and event handling in Python.
 
+Task 5: Contact Book
+The Contact Book is a GUI-based Python application designed to store and manage contact information in an organized way. It allows users to add new contacts, view all saved contacts, search by name or phone number, update existing details, and delete contacts when they are no longer needed. The application uses a local JSON file to save data so that the contacts are not lost when the program is closed. Through this task, I learned how to work with file handling, data storage, and graphical interfaces using Tkinter.
+
 
